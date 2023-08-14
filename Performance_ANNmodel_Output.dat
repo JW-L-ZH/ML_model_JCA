@@ -1,0 +1,156 @@
+X_training_dataset_shape
+(898, 2)
+X_validation_dataset_shape
+(369, 2)
+X_test_dataset_shape
+(333, 2)
+
+JCA - Training porosity - r2_score
+0.9992426159823373
+JCA - Training porosity - mean_squared_error
+1.5739459758690645e-05
+JCA - Training porosity - mean_squared_error_ -LOG converge_speed
+4.803010178447483
+JCA - Training porosity - root mean_squared_error
+0.003967298798766063
+JCA - Training porosity - mean_absolute_error
+0.001605939072164883
+JCA - Training porosity - mean_absolute_percentage_error
+0.2324859225347053
+JCA - Validation porosity - r2_score
+0.999443848011218
+JCA - Validation porosity - mean_squared_error
+1.2434806277246037e-05
+JCA - Validation porosity - -LOG mean_squared_error
+4.803010178447483
+JCA - Validation porosity - root mean_squared_error
+0.0035263020683495108
+JCA - Validation porosity - mean_absolute_error
+0.0022206564496025497
+JCA - Validation porosity - mean_absolute_percentage_error
+0.338776406888879
+JCA - Testing porosity - r2_score
+0.9993424671230398
+JCA - Testing porosity - mean_squared_error
+1.4338468463307292e-05
+JCA - Testing porosity - mean_absolute_percentage_error
+0.47763698357408957
+
+JCA - Training flow resistance - r2_score
+0.994903679253533
+JCA - Training flow resistance - mean_squared_error
+1576781.8460046768
+JCA - Training flow resistance - mean_squared_error_ converge_speed
+-6.197771611128452
+JCA - Training flow resistance - root mean_squared_error
+1255.6997435711598
+JCA - Training flow resistance - mean_absolute_error
+411.9992500704201
+JCA - Training flow resistance - mean_absolute_percentage_error
+4.0424254957743795
+JCA - Validation flow resistance - r2_score
+0.9932645763735987
+JCA - Validation flow resistance - mean_squared_error
+837562.622912536
+JCA - Validation flow resistance - -LOG mean_squared_error
+-5.923017288268411
+JCA - Validation flow resistance - root mean_squared_error
+915.1844747986802
+JCA - Validation flow resistance - mean_absolute_error
+521.660762148111
+JCA - Validation flow resistance - mean_absolute_percentage_error
+19.633610382597837
+JCA - Testing flow resistance - r2_score
+0.9701223477654127
+JCA - Testing flow resistance - mean_squared_error
+1029579.2676143191
+JCA - Testing flow resistance - mean_absolute_percentage_error
+40.6836265537362
+
+JCA - Training  tortuosity - r2_score
+0.9990538044748162
+JCA - Training  tortuosity - mean_squared_error
+4.4059584950052215e-05
+JCA - Training  tortuosity - root mean_squared_error
+0.006637739445779129
+JCA - Training  tortuosity - mean_absolute_error
+0.003545168533139062
+JCA - Training tortuosity - mean_absolute_percentage_error
+0.2564108173568663
+JCA - Validation  tortuosity - r2_score
+0.9967542911467918
+JCA - Validation  tortuosity - mean_squared_error
+0.00017168157909996793
+JCA - Validation  tortuosity - -LOG mean_squared_error
+3.7652763007879066
+JCA - Validation  tortuosity - root mean_squared_error
+0.013102731741891381
+JCA - Validation  tortuosity - mean_absolute_error
+0.0067616551011837585
+JCA - Validation tortuosity - mean_absolute_percentage_error
+0.4950102420985652
+JCA - Testing tortuosity - r2_score
+0.9924458377515495
+JCA - Testing tortuosity - mean_squared_error
+0.00047841238397983724
+JCA - Testing tortuosity - mean_absolute_percentage_error
+0.9910874106159827
+
+
+JCA - Training viscous length - r2_score
+0.9914750858489043
+JCA - Training viscous length - mean_squared_error
+1.2495600144002807e-10
+JCA - Training viscous length - root mean_squared_error
+1.1178372038898512e-05
+JCA - Training viscous length - mean_absolute_error
+4.0663348956694825e-06
+JCA - Training viscous length  - mean_absolute_percentage_error
+2.976711233571664
+JCA - Validation viscous length - r2_score
+0.9596287650484964
+JCA - Validation viscous length - mean_squared_error
+8.604510805643338e-10
+JCA - Validation viscous length - -LOG mean_squared_error
+9.06527381568493
+JCA - Validation viscous length - root mean_squared_error
+2.9333446448795168e-05
+JCA - Validation viscous length - mean_absolute_error
+9.508230043504515e-06
+JCA - Validation viscous length  - mean_absolute_percentage_error
+4.207854879366005
+JCA - Testing viscous length - r2_score
+0.9358581920967822
+JCA - Testing viscous length - mean_squared_error
+2.6084323113980965e-09
+JCA - Testing viscous length  - mean_absolute_percentage_error
+5.186922348659957
+
+JCA - Training thermal length - r2_score
+0.9908398352441005
+JCA - Training thermal length - mean_squared_error
+4.694979105479159e-10
+JCA - Training thermal length - root mean_squared_error
+2.166790046469468e-05
+JCA - Training thermal length - mean_absolute_error
+7.969521630320628e-06
+JCA - Training thermal length  - mean_absolute_percentage_error
+2.727728025507773
+JCA - Validation thermal length - r2_score
+0.9534545337977006
+JCA - Validation thermal length - mean_squared_error
+3.440687236523196e-09
+JCA - Validation thermal length - -LOG mean_squared_error
+8.463354803585279
+JCA - Validation thermal length - root mean_squared_error
+5.865737154461659e-05
+JCA - Validation thermal length - mean_absolute_error
+1.9927361189088903e-05
+JCA - Validation thermal length  - mean_absolute_percentage_error
+3.8733424147435156
+JCA - Testing thermal length - r2_score
+0.9292151894093408
+JCA - Testing thermal length - mean_squared_error
+1.0256821576154012e-08
+JCA - Testing thermal length  - mean_absolute_percentage_error
+5.173080234111881
